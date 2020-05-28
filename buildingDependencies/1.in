@@ -1,0 +1,12 @@
+10
+gmp:
+solution: set map queue test2
+base:
+set: base gmp
+map: base gmp
+queue: base
+test1: base solution
+test2: gmp
+test3: test2
+test: solution
+gmp
